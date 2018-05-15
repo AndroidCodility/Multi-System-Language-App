@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiSystem Language</string>
+
+    <string name="applicant_name">Android Codility</string>
+    <string name="exit">Exit</string>
+    <string name="info">Android by default uses the locale of the device to select the appropriate language dependent resources. And most of the time this behaviour is enough for common applications.
+    \n\nSo when you are aiming your app to be globally successful, it is always a good idea to make the app localized.
+    \n\nLocale represents a language/country/variant combination. Locales are used to alter the presentation of information such as numbers or dates to suit the conventions in the region they describe.</string>
+</resources>
